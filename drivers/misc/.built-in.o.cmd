@@ -1,0 +1,1 @@
+cmd_drivers/misc/built-in.o :=  /home/mali/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-ld -EL    -r -o drivers/misc/built-in.o drivers/misc/pmem.o drivers/misc/eeprom/built-in.o drivers/misc/wl127x-rfkill.o drivers/misc/ti-st/built-in.o 

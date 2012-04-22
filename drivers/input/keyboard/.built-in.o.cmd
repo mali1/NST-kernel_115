@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  /home/mali/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/twl4030_keypad.o drivers/input/keyboard/gpio_keys.o 

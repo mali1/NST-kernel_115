@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/uImage := /bin/bash /home/mali/android/NST-kernel_115/scripts/mkuboot.sh -A arm -O linux -T kernel -C none -a 0x80008000 -e 0x80008000 -n 'Linux-2.6.29-omap1' -d arch/arm/boot/zImage arch/arm/boot/uImage

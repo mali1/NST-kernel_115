@@ -1,0 +1,1 @@
+cmd_drivers/usb/musb/musb_hdrc.o := /home/mali/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-ld -EL    -r -o drivers/usb/musb/musb_hdrc.o drivers/usb/musb/musb_core.o drivers/usb/musb/omap2430.o drivers/usb/musb/musb_gadget_ep0.o drivers/usb/musb/musb_gadget.o drivers/usb/musb/musb_virthub.o drivers/usb/musb/musb_host.o drivers/usb/musb/musbhsdma.o 
